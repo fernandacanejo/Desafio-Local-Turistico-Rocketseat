@@ -1,0 +1,132 @@
+
+body {
+    background-color: #F5F4F0;
+    font-family: 'Open Sans';
+    color: #1B1B1B;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    min-height: 100vh;       /* Garante que o conteúdo ocupe toda a altura da tela */
+    margin: 40px;
+  }
+
+main {
+  display: flex;
+  flex-direction: column; /* Mantém os elementos organizados verticalmente */
+  margin: 40px;
+  max-width: 1440px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 8px;
+    margin-bottom: 40px;
+  }
+
+.headline {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold; 
+    color: #e1624f;
+    text-transform: uppercase; 
+    margin-bottom: 2px;
+  }
+
+img {
+    border-radius: 28px;  
+    width: 100%;
+  }
+
+  .subtitle {
+    font-size: 16px;
+    line-height: 22px;
+    font-style: italic;
+    text-align: center;
+    color: #333333;
+    margin-top: 24px;
+  }
+
+.divider {
+    width: 100%;
+    height: 1px;
+    margin: 36px 0;
+    background-color: #d9d9d9;
+    flex-shrink: 0
+}
+
+#introduction {
+  margin-top: 40px;
+}
+
+  h2 {
+    font-size: 32px;
+    margin-top: 2px;
+    margin-bottom: 8px;
+  }
+
+  #destinos {
+    margin-top: 64px;
+    margin-bottom: 24px;
+  }
+
+  h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    margin-bottom: auto;
+  }
+
+  .templos img {
+    margin-top: 48px;
+  }
+
+  #encerramento {
+    text-align: center;
+  }
+
+  footer {
+    font-family:'Alice';
+    font-weight: 100;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 4px;
+  }
+
+  ul {
+    font-weight:bold;  
+  }
+
+.lista-1 li {
+    color: #0C51A7 
+  }
+  
+
+  .lista-2 li {
+    color: #0C51A7 
+  }
+
+  
+  /* LISTA 3 - Cada item com cor diferente */
+  .lista-3 .cor-1 {
+    color: #591B98
+  }
+
+  
+  .lista-3 .cor-2 {
+    color: #E5245E
+  }
+
+  
+  .lista-3 .cor-3 {
+    color: #E95E10
+  }
+
+  ul li::marker {
+    color: #333333;
+  }
+
+  footer img {
+    vertical-align: middle; 
+    width: 16px;
+    height: 162px;
+}
+  
