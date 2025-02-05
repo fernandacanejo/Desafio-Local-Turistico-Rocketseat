@@ -3,7 +3,8 @@ body {
     background-color: #F5F4F0;
     font-family: 'Open Sans';
     color: #1B1B1B;
-    display: flex;
+    display: flex; /*Transforma o elemento em um container flexível, permitindo que os itens filhos sejam organizados de forma dinâmica e responsiva,
+    facilitando o alinhamento, a distribuição de espaço e o controle da direção (linha ou coluna) dos elementos dentro do container.*/
     justify-content: center; /* Centraliza horizontalmente */
     align-items: center;     /* Centraliza verticalmente */
     min-height: 100vh;       /* Garante que o conteúdo ocupe toda a altura da tela */
