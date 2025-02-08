@@ -31,7 +31,7 @@ Para executar o projeto, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
+   git clone <https://github.com/fernandacanejo/Desafio-Local-Turistico-Rocketseat.git>
 
 1. **Clone o repositório:**
 2. **Abra o arquivo `index.html`** em seu navegador preferido para visualizar a página.
