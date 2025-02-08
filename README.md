@@ -2,6 +2,7 @@
 
 Projeto desenvolvido como parte do **Desafio Prático** da Rocketseat. Esta aplicação apresenta uma página web com informações sobre Busan, destacando seus principais atrativos turísticos. 
 
+![imagem do desafio proposto pela Rocketseat](assets/desafio.png)
 ## Descrição
 
 A proposta deste projeto é criar uma página informativa sobre Busan, explorando os seguintes conceitos:
@@ -39,5 +40,8 @@ Para executar o projeto, siga os passos abaixo:
 3. ## Contribuições
 
 Contribuições são bem-vindas! Se desejar, fique à vontade para colaborar com melhorias ou ajustes 😄💜
+
+**<a href="https://fernandacanejo.github.io/Desafio-Local-Turistico-Rocketseat/" target="_blank">Acesse a página do projeto</a>**
+
 
 
